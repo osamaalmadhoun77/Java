@@ -6,6 +6,7 @@ public class Main {
 		Address add=new Address();
 		printone.printName();
         System.out.println(add.AddAddress("Gaza strip palestine"));
+        System.out.println(add.AddAddress("Israil"));
 	}
 
 }
